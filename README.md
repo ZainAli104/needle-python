@@ -3,7 +3,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/needle-python.svg)](https://pypi.org/project/needle-python)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/needle-python.svg)](https://pypi.org/project/needle-python)
 
-This Python library provides convenient acccess to Needle API. There are various methods and data types which, we believe will help you explore Needle API quickly. There may be some functionality available in REST API earlier than this Python library. In any case, we recommend to take look the the complete [documentation](https://docs.needle.app). Thank you for flying with us. 🚀
+This Python library provides convenient access to Needle API. There are various methods and data types which, we believe will help you explore Needle API quickly. There may be some functionality available in REST API earlier than this Python library. In any case, we recommend to take look the complete [documentation](https://docs.needle.app). Thank you for flying with us. 🚀
 
 ## Installation
 
@@ -87,7 +87,7 @@ print(answer.choices[0].message.content)
 # -> Retrieval-Augmented Generation (RAG) is the technique that moved into "Adopt" in this volume of the Technology Radar.
 ```
 
-This is one basic example of a RAG pipeline you can quicklu implement using Needle and OpenAI. Feel free to engineer more precise prompts and explore other prompting techniques such as chain-of-thoughts (CoT), graph of thoughts (GoT) etc. 
+This is one basic example of a RAG pipeline you can quickly implement using Needle and OpenAI. Feel free to engineer more precise prompts and explore other prompting techniques such as chain-of-thoughts (CoT), graph of thoughts (GoT) etc. 
 
 Needle API helps you with hassle-free contextualization however does not limit you to a certain RAG technique. Let us know what you build in our [Discord channel](https://discord.gg/JzJcHgTyZx) :)
 
